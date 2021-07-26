@@ -1,4 +1,7 @@
-### Hi there 👋
+##### Hello there 👋,
+
+I'm Kristof, my main languge is Go, used to develop in C++ and now experimenting with Rust. I love quirky/strange/odd things/tales/stories/stuff/blablabla. Listen to some [Kvantum Fantum Csapdája](https://soundcloud.com/user776424282/kvantum-fantum-csapdaja), the best children's tale from '86.
+
 
 <!--
 **kristoffn/kristoffn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
